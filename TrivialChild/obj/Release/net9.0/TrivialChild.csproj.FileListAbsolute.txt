@@ -1,0 +1,14 @@
+C:\Users\232439\Desktop\Lab 3\TrivialChild\bin\Release\net9.0\TrivialChild.exe
+C:\Users\232439\Desktop\Lab 3\TrivialChild\bin\Release\net9.0\TrivialChild.deps.json
+C:\Users\232439\Desktop\Lab 3\TrivialChild\bin\Release\net9.0\TrivialChild.runtimeconfig.json
+C:\Users\232439\Desktop\Lab 3\TrivialChild\bin\Release\net9.0\TrivialChild.dll
+C:\Users\232439\Desktop\Lab 3\TrivialChild\bin\Release\net9.0\TrivialChild.pdb
+C:\Users\232439\Desktop\Lab 3\TrivialChild\obj\Release\net9.0\TrivialChild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232439\Desktop\Lab 3\TrivialChild\obj\Release\net9.0\TrivialChild.AssemblyInfoInputs.cache
+C:\Users\232439\Desktop\Lab 3\TrivialChild\obj\Release\net9.0\TrivialChild.AssemblyInfo.cs
+C:\Users\232439\Desktop\Lab 3\TrivialChild\obj\Release\net9.0\TrivialChild.csproj.CoreCompileInputs.cache
+C:\Users\232439\Desktop\Lab 3\TrivialChild\obj\Release\net9.0\TrivialChild.dll
+C:\Users\232439\Desktop\Lab 3\TrivialChild\obj\Release\net9.0\refint\TrivialChild.dll
+C:\Users\232439\Desktop\Lab 3\TrivialChild\obj\Release\net9.0\TrivialChild.pdb
+C:\Users\232439\Desktop\Lab 3\TrivialChild\obj\Release\net9.0\TrivialChild.genruntimeconfig.cache
+C:\Users\232439\Desktop\Lab 3\TrivialChild\obj\Release\net9.0\ref\TrivialChild.dll
