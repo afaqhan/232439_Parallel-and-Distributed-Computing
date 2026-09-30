@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MhEGUYo3x5c=",
+  "dgSpecHash": "ulx+DGYPPDc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\232439\\Desktop\\Lab 3\\CreationOverhead\\CreationOverhead.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/apple/Downloads/Parallel Lab/Lab3/CreationOverhead/CreationOverhead.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/microsoft.netcore.app.ref/9.0.20/microsoft.netcore.app.ref.9.0.20.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.20/microsoft.aspnetcore.app.ref.9.0.20.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.netcore.app.host.osx-x64/9.0.20/microsoft.netcore.app.host.osx-x64.9.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

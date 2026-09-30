@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProcessLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6f9a5d98bf5e9684aba12542bfe16d2070dc614")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProcessLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProcessLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

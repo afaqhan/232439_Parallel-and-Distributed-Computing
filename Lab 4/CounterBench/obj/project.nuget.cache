@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "61CKuPymnUI=",
+  "success": true,
+  "projectFilePath": "/Users/apple/Downloads/Parallel Lab/Lab 4/CounterBench/CounterBench.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/microsoft.netcore.app.ref/9.0.20/microsoft.netcore.app.ref.9.0.20.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.20/microsoft.aspnetcore.app.ref.9.0.20.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.netcore.app.host.osx-x64/9.0.20/microsoft.netcore.app.host.osx-x64.9.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

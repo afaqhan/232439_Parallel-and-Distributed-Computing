@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArraySumThreads")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6f9a5d98bf5e9684aba12542bfe16d2070dc614")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArraySumThreads")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArraySumThreads")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
