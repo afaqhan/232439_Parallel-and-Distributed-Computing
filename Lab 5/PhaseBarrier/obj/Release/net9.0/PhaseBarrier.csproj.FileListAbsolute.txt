@@ -1,0 +1,14 @@
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\bin\Release\net9.0\PhaseBarrier.exe
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\bin\Release\net9.0\PhaseBarrier.deps.json
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\bin\Release\net9.0\PhaseBarrier.runtimeconfig.json
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\bin\Release\net9.0\PhaseBarrier.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\bin\Release\net9.0\PhaseBarrier.pdb
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\obj\Release\net9.0\PhaseBarrier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\obj\Release\net9.0\PhaseBarrier.AssemblyInfoInputs.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\obj\Release\net9.0\PhaseBarrier.AssemblyInfo.cs
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\obj\Release\net9.0\PhaseBarrier.csproj.CoreCompileInputs.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\obj\Release\net9.0\PhaseBarrier.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\obj\Release\net9.0\refint\PhaseBarrier.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\obj\Release\net9.0\PhaseBarrier.pdb
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\obj\Release\net9.0\PhaseBarrier.genruntimeconfig.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\PhaseBarrier\obj\Release\net9.0\ref\PhaseBarrier.dll

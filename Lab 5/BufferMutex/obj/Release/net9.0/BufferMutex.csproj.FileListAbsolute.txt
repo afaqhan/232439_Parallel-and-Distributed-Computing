@@ -1,0 +1,14 @@
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\bin\Release\net9.0\BufferMutex.exe
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\bin\Release\net9.0\BufferMutex.deps.json
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\bin\Release\net9.0\BufferMutex.runtimeconfig.json
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\bin\Release\net9.0\BufferMutex.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\bin\Release\net9.0\BufferMutex.pdb
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\obj\Release\net9.0\BufferMutex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\obj\Release\net9.0\BufferMutex.AssemblyInfoInputs.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\obj\Release\net9.0\BufferMutex.AssemblyInfo.cs
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\obj\Release\net9.0\BufferMutex.csproj.CoreCompileInputs.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\obj\Release\net9.0\BufferMutex.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\obj\Release\net9.0\refint\BufferMutex.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\obj\Release\net9.0\BufferMutex.pdb
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\obj\Release\net9.0\BufferMutex.genruntimeconfig.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferMutex\obj\Release\net9.0\ref\BufferMutex.dll

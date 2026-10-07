@@ -1,0 +1,14 @@
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\bin\Release\net9.0\CondSignal.exe
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\bin\Release\net9.0\CondSignal.deps.json
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\bin\Release\net9.0\CondSignal.runtimeconfig.json
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\bin\Release\net9.0\CondSignal.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\bin\Release\net9.0\CondSignal.pdb
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\obj\Release\net9.0\CondSignal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\obj\Release\net9.0\CondSignal.AssemblyInfoInputs.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\obj\Release\net9.0\CondSignal.AssemblyInfo.cs
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\obj\Release\net9.0\CondSignal.csproj.CoreCompileInputs.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\obj\Release\net9.0\CondSignal.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\obj\Release\net9.0\refint\CondSignal.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\obj\Release\net9.0\CondSignal.pdb
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\obj\Release\net9.0\CondSignal.genruntimeconfig.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\CondSignal\obj\Release\net9.0\ref\CondSignal.dll

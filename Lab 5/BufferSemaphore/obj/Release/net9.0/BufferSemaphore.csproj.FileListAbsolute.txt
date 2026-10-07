@@ -1,0 +1,14 @@
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\bin\Release\net9.0\BufferSemaphore.exe
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\bin\Release\net9.0\BufferSemaphore.deps.json
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\bin\Release\net9.0\BufferSemaphore.runtimeconfig.json
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\bin\Release\net9.0\BufferSemaphore.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\bin\Release\net9.0\BufferSemaphore.pdb
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.AssemblyInfoInputs.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.AssemblyInfo.cs
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.csproj.CoreCompileInputs.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\obj\Release\net9.0\refint\BufferSemaphore.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.pdb
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.genruntimeconfig.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\Lab 5\BufferSemaphore\obj\Release\net9.0\ref\BufferSemaphore.dll
