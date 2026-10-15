@@ -1,0 +1,14 @@
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\obj\Release\net9.0\VecAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\obj\Release\net9.0\VecAdd.AssemblyInfoInputs.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\obj\Release\net9.0\VecAdd.AssemblyInfo.cs
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\obj\Release\net9.0\VecAdd.csproj.CoreCompileInputs.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\bin\Release\net9.0\VecAdd.exe
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\bin\Release\net9.0\VecAdd.deps.json
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\bin\Release\net9.0\VecAdd.runtimeconfig.json
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\bin\Release\net9.0\VecAdd.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\bin\Release\net9.0\VecAdd.pdb
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\obj\Release\net9.0\VecAdd.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\obj\Release\net9.0\refint\VecAdd.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\obj\Release\net9.0\VecAdd.pdb
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\obj\Release\net9.0\VecAdd.genruntimeconfig.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\VecAdd\obj\Release\net9.0\ref\VecAdd.dll

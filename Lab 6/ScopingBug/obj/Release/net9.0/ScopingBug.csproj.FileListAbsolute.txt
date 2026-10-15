@@ -1,0 +1,14 @@
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\bin\Release\net9.0\ScopingBug.exe
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\bin\Release\net9.0\ScopingBug.deps.json
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\bin\Release\net9.0\ScopingBug.runtimeconfig.json
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\bin\Release\net9.0\ScopingBug.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\bin\Release\net9.0\ScopingBug.pdb
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\obj\Release\net9.0\ScopingBug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\obj\Release\net9.0\ScopingBug.AssemblyInfoInputs.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\obj\Release\net9.0\ScopingBug.AssemblyInfo.cs
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\obj\Release\net9.0\ScopingBug.csproj.CoreCompileInputs.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\obj\Release\net9.0\ScopingBug.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\obj\Release\net9.0\refint\ScopingBug.dll
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\obj\Release\net9.0\ScopingBug.pdb
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\obj\Release\net9.0\ScopingBug.genruntimeconfig.cache
+C:\Users\232439\Desktop\232439_Parallel-Distribution\PDC_Lab06_CSharp\ScopingBug\obj\Release\net9.0\ref\ScopingBug.dll
